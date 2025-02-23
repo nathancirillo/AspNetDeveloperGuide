@@ -1,0 +1,14 @@
+E:\Repositórios GITHUB (Estudos)\Deepseek\ExampleAsyncAwait\bin\Debug\net9.0\ExampleAsyncAwait.exe
+E:\Repositórios GITHUB (Estudos)\Deepseek\ExampleAsyncAwait\bin\Debug\net9.0\ExampleAsyncAwait.deps.json
+E:\Repositórios GITHUB (Estudos)\Deepseek\ExampleAsyncAwait\bin\Debug\net9.0\ExampleAsyncAwait.runtimeconfig.json
+E:\Repositórios GITHUB (Estudos)\Deepseek\ExampleAsyncAwait\bin\Debug\net9.0\ExampleAsyncAwait.dll
+E:\Repositórios GITHUB (Estudos)\Deepseek\ExampleAsyncAwait\bin\Debug\net9.0\ExampleAsyncAwait.pdb
+E:\Repositórios GITHUB (Estudos)\Deepseek\ExampleAsyncAwait\obj\Debug\net9.0\ExampleAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositórios GITHUB (Estudos)\Deepseek\ExampleAsyncAwait\obj\Debug\net9.0\ExampleAsyncAwait.AssemblyInfoInputs.cache
+E:\Repositórios GITHUB (Estudos)\Deepseek\ExampleAsyncAwait\obj\Debug\net9.0\ExampleAsyncAwait.AssemblyInfo.cs
+E:\Repositórios GITHUB (Estudos)\Deepseek\ExampleAsyncAwait\obj\Debug\net9.0\ExampleAsyncAwait.csproj.CoreCompileInputs.cache
+E:\Repositórios GITHUB (Estudos)\Deepseek\ExampleAsyncAwait\obj\Debug\net9.0\ExampleAsyncAwait.dll
+E:\Repositórios GITHUB (Estudos)\Deepseek\ExampleAsyncAwait\obj\Debug\net9.0\refint\ExampleAsyncAwait.dll
+E:\Repositórios GITHUB (Estudos)\Deepseek\ExampleAsyncAwait\obj\Debug\net9.0\ExampleAsyncAwait.pdb
+E:\Repositórios GITHUB (Estudos)\Deepseek\ExampleAsyncAwait\obj\Debug\net9.0\ExampleAsyncAwait.genruntimeconfig.cache
+E:\Repositórios GITHUB (Estudos)\Deepseek\ExampleAsyncAwait\obj\Debug\net9.0\ref\ExampleAsyncAwait.dll
