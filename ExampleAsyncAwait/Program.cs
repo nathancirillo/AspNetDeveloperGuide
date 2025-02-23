@@ -12,8 +12,6 @@
 // CallMethodAsync().Wait();
 
 Console.WriteLine("3. Finalizou a execução do programa.");
-s
-
 
 static async Task CallMethodAsync(){
   Console.WriteLine("1. Iniciou a execução do método;");
